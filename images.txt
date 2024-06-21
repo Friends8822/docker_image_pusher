@@ -1,1 +1,1 @@
-sonatype/nexus3:latest
+emqx:5.2.0
